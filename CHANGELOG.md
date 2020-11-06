@@ -1,4 +1,4 @@
-## 1.0.0 / 2020-11-06
+## 0.2.0 / 2020-11-06
 - [FEATURE] Updated extensions to work with latest version of gdnative.
 - [MISC] Updated gdnative dependency to latest version.
 

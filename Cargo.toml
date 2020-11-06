@@ -1,6 +1,6 @@
 [package]
 name = "godot_rust_helper_ext"
-version = "0.1.2"
+version = "0.2.0"
 authors = ["Bob <robertcorponoi@gmail.com>"]
 edition = "2018"
 
